@@ -1,0 +1,22 @@
+.container {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  align-items: center;
+}
+h1 {
+  color: red;
+  text-shadow: 2px 2px 4px rgb(73, 103, 235);
+  font-size: 30px;
+}
+h2{
+    font-family: cursive;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
